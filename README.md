@@ -1,0 +1,1 @@
+# hashrate_vuejs_calculator
